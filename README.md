@@ -1,5 +1,4 @@
-# DAY-1-Hello-World-App
-Hello World Example – Streamlit Demo
+**Hello World Example – Streamlit Demo
 This simple Streamlit project demonstrates core Streamlit capabilities and serves as a clear UI starting point for future AI chatbot interfaces.
 It is designed as a standalone "Hello World" example and highlights:
 
@@ -9,7 +8,7 @@ Markdown formatting
 
 Groq Llama 3 (8B) AI model integration
 
-Formatted Python code blocks
+Formatted Python code blocks**
 
 Features
 Clean, modern web UI built with Streamlit
@@ -52,7 +51,8 @@ text
 /your-app-folder/
     app.py  
     README.md
-Output
+
+    Output
 Shows a “Hello World Example” heading
 
 Bulleted list of demo features (with bolded keywords)
@@ -60,7 +60,8 @@ Bulleted list of demo features (with bolded keywords)
 Python code sample:
 
 python
-print("Hello, Streamlit")
+print("Hello, Streamlit world")
+
 Footer displaying the current date and time in IST (Saturday, July 19, 2025, 2:35 PM IST)
 
 Customization & Next Steps
